@@ -1,3 +1,8 @@
 int a=10, b=15, sum;
 sum= a + b;
 Sopln("The addition of two number is :" +sum);
+
+int a=10, b=15, multy;
+multy=a * b;
+Sopln("The addition of two number is :" +multy);
+
